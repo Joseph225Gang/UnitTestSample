@@ -1,0 +1,13 @@
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.exe
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.csprojAssemblyReference.cache
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.AssemblyInfoInputs.cache
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.AssemblyInfo.cs
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.deps.json
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.runtimeconfig.json
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.runtimeconfig.dev.json
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.dll
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.pdb
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.csproj.CopyComplete
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.dll
+D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.pdb
