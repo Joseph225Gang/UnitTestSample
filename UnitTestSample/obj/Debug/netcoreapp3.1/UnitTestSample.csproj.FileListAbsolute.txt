@@ -11,3 +11,16 @@ D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\nuni
 D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.csproj.CopyComplete
 D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.dll
 D:\Visual Sutdio 2019\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.pdb
+D:\Github\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.exe
+D:\Github\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.deps.json
+D:\Github\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.runtimeconfig.json
+D:\Github\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.runtimeconfig.dev.json
+D:\Github\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.dll
+D:\Github\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\UnitTestSample.pdb
+D:\Github\UnitTestSample\UnitTestSample\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Github\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.csprojAssemblyReference.cache
+D:\Github\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.AssemblyInfoInputs.cache
+D:\Github\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.AssemblyInfo.cs
+D:\Github\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.csproj.CopyComplete
+D:\Github\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.dll
+D:\Github\UnitTestSample\UnitTestSample\obj\Debug\netcoreapp3.1\UnitTestSample.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Sutdio 2019\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj": {}
+    "D:\\Github\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj": {}
   },
   "projects": {
-    "D:\\Visual Sutdio 2019\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj": {
+    "D:\\Github\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Sutdio 2019\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
+        "projectUniqueName": "D:\\Github\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
         "projectName": "UnitTestSample",
-        "projectPath": "D:\\Visual Sutdio 2019\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
+        "projectPath": "D:\\Github\\UnitTestSample\\UnitTestSample\\UnitTestSample.csproj",
         "packagesPath": "C:\\Users\\Kwei-GangLai\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Sutdio 2019\\UnitTestSample\\UnitTestSample\\obj\\",
+        "outputPath": "D:\\Github\\UnitTestSample\\UnitTestSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
